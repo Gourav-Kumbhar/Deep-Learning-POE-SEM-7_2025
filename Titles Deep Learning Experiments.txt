@@ -1,0 +1,17 @@
+@ Gourav Kumbhar Deep Learning Experiments 
+--------------------------------------------------------------------------------------------
+EXP 01: Installation of Python library
+EXP 02: Data Manipulation
+EXP 03: Data Preprocessing
+EXP 04: Linear Algebra Tensors
+EXP 05: MLP (Multilayer Perceptron) Neural Network
+EXP 06: Forward Pass with Matrix Multiplication
+EXP 07: CNN (Image Classification)
+EXP 08: MNIST Digital Classification
+EXP 09: FCNN with one Neuron
+EXP 10: CIFAR-10 Classification
+EXP 11: ImageNet
+EXP 12: RNN Implementation
+EXP 13: RCNN Implementation
+EXP 14: Case Study RNN (LSTM)
+EXP 15: Case Study RNN (GRU)
